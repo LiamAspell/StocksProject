@@ -1,0 +1,17 @@
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\StockProject.exe
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\StockProject.deps.json
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\StockProject.runtimeconfig.json
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\StockProject.runtimeconfig.dev.json
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\StockProject.dll
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\StockProject.pdb
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\Apache.Arrow.dll
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Analysis.dll
+C:\Users\liama\VSCodeProjects\StockProject\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.csprojAssemblyReference.cache
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.AssemblyInfoInputs.cache
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.AssemblyInfo.cs
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.csproj.CoreCompileInputs.cache
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.csproj.CopyComplete
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.dll
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.pdb
+C:\Users\liama\VSCodeProjects\StockProject\obj\Debug\netcoreapp3.1\StockProject.genruntimeconfig.cache
